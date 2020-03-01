@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">User-Management</string>
+    <string name="log_in_activity">LogIn</string>
+    <string name="register">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="second_name">Second Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">example@email.com</string>
+    <string name="password">Create Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="phone">phone number</string>
+    <string name="gender">Gender</string>
+    <string name="user_name">User Name</string>
+    <string name="log_in_user_name">Enter  User Name Here!</string>
+    <string name="log_in_password">Enter Password Here</string>
+    <string name="sgin_in">Sign In</string>
+    <string name="confirim_pass">Connfirim Password please</string>
+
+
+</resources>
